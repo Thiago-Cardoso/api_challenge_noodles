@@ -12,7 +12,7 @@
   </a>
 </p>
 
-Challenge - Instant Noodle Problem
+Challenge - Instant Noodle Problem<br />
 João is a fanatic for "noodles"; he loves them, and, as expected, he took several packages when he went camping with his colleagues. As João only likes noodles made with the right time, he despaired when he realized that he had forgotten his watch at home.
 Luckily, on the way, he managed to buy two hourglasses of different durations. For example, if the noodles need 3 minutes to be ready, and João has an hourglass of 5 minutes and another of 7 minutes, a possible way to cook the noodles is:
 João starts turning the two hourglasses over at the same time. When the 5 minute hourglass sand runs out, João turns it over again. João starts preparing the noodles when the 7 minute hourglass sand runs out. when the 5 minute hourglass runs out again, the noodles will stay on fire for 3 minutes (from minute 7 to minute 10). So, although the noodles take only three minutes to cook, it needs 10 minutes to be ready. Make a program that, given the time of preparation of the noodles, and the times of the two hourglasses (both longer than the time of the noodles) , determines the minimum time needed for the noodles to be ready or if it is not possible to cook the noodles in the exact time with the available hourglasses.
