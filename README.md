@@ -87,6 +87,13 @@ docker-compose build
 ```
 docker-compose up - d
 ```
+3.  Observation
+
+```
+If the server does not create the pid file. due to gitignore
+it is necessary to create manually.
+mkdir tmp/pids
+```
 
 ## Running the tests
 
